@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3i0025_000-WYG.yaml, hash: 'sha256:8efc08e343e539fd0b2b4707233704bae8bb5d840f53efc60f2e54d5ab3179d3'}
   - {seq: 1, filename: KR3i0025_001-WYG.yaml, hash: 'sha256:48cab6511e4a3671b2a05bda18e6b00544bbe4f9dea4c00bf24008994fe67cca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0025_000-WYG.markers.yaml, hash: 'sha256:4b5dcbaf7cd50828f7bbd9220e799f4c00ddeb353672212800f02277994358ce'}
-  - {seq: 1, role: markers, filename: assets/KR3i0025_001-WYG.markers.yaml, hash: 'sha256:b49b2707b1431a5a8b7a5aa0766b3bdb149d59ce074222203cccc808aab094c3'}
+  - {seq: 0, role: markers, filename: assets/KR3i0025_000-WYG.markers.yaml, hash: 'sha256:ec2ca24bc953a227c29101b09db011e596e78134f2531cfc235cb48466babada'}
+  - {seq: 1, role: markers, filename: assets/KR3i0025_001-WYG.markers.yaml, hash: 'sha256:772d9d7457459ab01f927367367cca2f2b8114b01b82ca409c22ec6741c679ed'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 煎茶水記
   type: section
   level: 1
-hash: sha256:b33b81450f7fbadcdc24c3e14fc8bbba0b845c4f110a5bf8f3c6b10b98ce3e9b
+hash: sha256:ffd8ded26e80c592e2d195144517c151ddd191c0f6d5a4314d14a124c65c9658

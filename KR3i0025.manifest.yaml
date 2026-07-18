@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3i0025_000.yaml, hash: 'sha256:7028bd70518b47c7d663744a39ffecb5f46f9e06544bbada952fdf1be0dab7ae'}
   - {seq: 1, filename: KR3i0025_001.yaml, hash: 'sha256:e8df0c21ee67a8c4c2f13ce714a0c5fb8400a81b8119319585066b24d78f14c2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0025_000.markers.yaml, hash: 'sha256:d1fb0289165c35f66e8ce9677de0191ab2c8663d106c3c3e9be88e808c556219'}
-  - {seq: 1, role: markers, filename: assets/KR3i0025_001.markers.yaml, hash: 'sha256:553dd5cee3bb68a8b93353677687c0ef665258e2ac6626f99b4d540e69684af8'}
+  - {seq: 0, role: markers, filename: assets/KR3i0025_000.markers.yaml, hash: 'sha256:364e77e9b2f1d5d22d987669711ab58063d73d9b0fdb42520ac66182d4c69490'}
+  - {seq: 1, role: markers, filename: assets/KR3i0025_001.markers.yaml, hash: 'sha256:ca36c018c46c4b71e4b072d8f45df2b4921a7145ec3f8113c1068074c419899f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 煎茶水記
   type: section
   level: 1
-hash: sha256:73a9397d276ad9b17f21a44134867759c7a08e04d350f4de810abdc3f0cd146b
+hash: sha256:2360b4085a4719161fbd4cbcceb8210ca6332dd6e7ca88695fecb8ba6ac80336
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
